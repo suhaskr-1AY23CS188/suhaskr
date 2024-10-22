@@ -1,4 +1,9 @@
 hi hello
+<<<<<<< HEAD
 i am suhaskr
 
 computer science
+=======
+irreplaceable
+i am suhaskr
+>>>>>>> d8982da (new line added)
